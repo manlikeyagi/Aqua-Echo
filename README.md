@@ -12,6 +12,11 @@ AquaEcho captures ambient sound from water systems (e.g., pipes, tanks, borehole
 
 ## 🛠️ System Architecture
 
+  <h3 align="center"></h3>
+<p align="center">
+  <img src ="images/aqua echo.png" width="400"/>
+</p>
+
 ### 📦 Hardware Components
 
 | Component                     | Function                                                   |
