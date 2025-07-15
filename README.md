@@ -102,7 +102,10 @@ AquaEcho captures ambient sound from water systems (e.g., pipes, tanks, borehole
 
 ### 🔧 System Schematic
 
-![Schematic Diagram](schematics/aquaecho_circuit.png)
+ <h3 align="center">🔧 AgriSmart station</h3>
+<p align="center">
+  <img src ="images/wio terminal aqua echo.jpeg" width="400"/>
+</p>
 
 ### 📱 Dashboard Preview
 
@@ -110,11 +113,6 @@ AquaEcho captures ambient sound from water systems (e.g., pipes, tanks, borehole
 <p align="center">
   <img src ="images/aqua echo.png" width="400"/>
 </p>
-
-
-
-
----
 
 ## 🌍 Impact & Scalability
 
