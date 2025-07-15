@@ -128,7 +128,7 @@ AquaEcho aims to provide:
 
 ## 👨‍💻 Author
 
-**Temitope Okunbayo**  
+**Temitope Okunbamu Ridwan**  
 IoT Engineer | Morrebs ICT Solutions  
 📧 [okunbamuyagi@gmail.com]  
 🔗 [https://www.linkedin.com/in/okunbamu-temitope-122a37226/]
