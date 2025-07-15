@@ -130,8 +130,8 @@ AquaEcho aims to provide:
 
 **Temitope Okunbayo**  
 IoT Engineer | Morrebs ICT Solutions  
-📧 [Your Email]  
-🔗 [LinkedIn or Portfolio]
+📧 [okunbamuyagi@gmail.com]  
+🔗 [https://www.linkedin.com/in/okunbamu-temitope-122a37226/]
 
 ---
 
