@@ -1,12 +1,12 @@
-# 🌊 AquaEcho: Acoustic-Based Smart Water Monitoring System
+#  AquaEcho: Acoustic-Based Smart Water Monitoring System
 
-**AquaEcho** is a low-cost, AI-powered water infrastructure monitoring system built around the **Seeed Studio Wio Terminal**. It uses **acoustic sensing** and **Edge AI** to detect water flow patterns, leaks, and groundwater depletion — making it ideal for rural or underserved areas.
+**AquaEcho** is a low-cost, AI-powered water infrastructure monitoring system built around the **Seeed Studio Wio Terminal**. It uses **acoustic sensing** and **Edge AI** to detect water flow patterns, leaks, and groundwater depletion  making it ideal for rural or underserved areas.
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
-AquaEcho captures ambient sound from water systems (e.g., pipes, tanks, boreholes) and uses an on-device AI model to classify conditions such as **normal flow**, **leak**, or **dry pipe**. Data is logged locally and transmitted via **WiFi**, **LoRa**, or **4G** to a web/mobile dashboard for real-time monitoring and alerts.
+AquaEcho captures ambient sound from water systems (e.g., pipes, tanks, boreholes) and uses an on device AI model to classify conditions such as **normal flow**, **leak**, or **dry pipe**. Data is logged locally and transmitted via **WiFi**, **LoRa**, or **4G** to a web/mobile dashboard for real-time monitoring and alerts.
 
 ---
 
@@ -108,9 +108,7 @@ AquaEcho captures ambient sound from water systems (e.g., pipes, tanks, borehole
 
 ![App UI](images/aquaecho_dashboard.png)
 
-### 📷 Real-World Setup
 
-![Field Deployment](images/aquaecho_real.jpg)
 
 ---
 
